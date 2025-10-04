@@ -22,7 +22,8 @@ If you want the **purest, most immersive experience**, skip directly to:
 
 ## ⚙️ Core Loop & Game Logic
 - **Explore → Inspect → Use → Decide:** Navigate between rooms, look closely at what you find, use (or drop) items, and manage risk.  
-- **Stateful Rooms & Events:** Certain rooms can trigger consequences depending on your current light and items.  
+- **Stateful Rooms & Events:** Certain rooms can trigger consequences depending on your current light and items.
+- **Character Selection:** Each character starts with different gear and a different number of inventory slots, shaping your approach.
 - **Inventory & Health:** Each character starts with different gear and a number of inventory slots. Taking damage leaves you *injured*, and a second hit ends the run.  
 - **Win State:** Find a way to unlock the way out and **leave the house alive**.
 
