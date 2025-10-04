@@ -4,6 +4,12 @@ A compact, terminal-based **horror text adventure** written in C. You’ll step 
 
 ---
 
+## 🌒 Theme
+This is a **moody, flashlight and floorboards** kind of story: creaking doors, strange drafts, and the ambient dread of a place that *doesn’t want you there*.  
+Your goal is simple: **go in, survive, and get out**. The “how” is up to you.
+
+---
+
 ## ⚠️ Before You Begin
 This README contains **general gameplay explanations** — sections like [💬 Commands](#-commands), [⚙️ Core Loop & Game Logic](#️-core-loop--game-logic), and [🔦 Items, Light, and Hazards](#-items-light-and-hazards) give insight into how the game works.  
 While they **don’t spoil story events**, they may **offer small hints or strategic advantages** (like what certain mechanics do).
@@ -11,12 +17,6 @@ While they **don’t spoil story events**, they may **offer small hints or strat
 If you want the **purest, most immersive experience**, skip directly to:
 - [🧰 Build & Run](#-build--run) – to set up the game  
 - Then **play blind**. Discover the rest through exploration. 🔥
-
----
-
-## 🌒 Theme (No Spoilers)
-This is a **moody, flashlight and floorboards** kind of story: creaking doors, strange drafts, and the ambient dread of a place that *doesn’t want you there*.  
-Your goal is simple: **go in, survive, and get out**. The “how” is up to you.
 
 ---
 
